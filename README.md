@@ -14,9 +14,3 @@ I am expanding my expertise in advanced AI techniques and tools, including Lang 
 - **Generative AI:** RAG (Retrieval-Augmented Generation), LLMs, Chatbot Development
 - **Certifications:** Google Advanced Data Analytics, IBM SQL and Python for Data Science
 
-## 💞️ Collaboration Interests
-I am looking to collaborate on projects involving machine learning, deep learning, generative AI, and data analysis. I am particularly interested in contributing to innovative projects that leverage AI to solve complex challenges.
-
----
-
-I am eager to contribute to your team with my practical experience and a commitment to continuous learning. Let's create something amazing together!
