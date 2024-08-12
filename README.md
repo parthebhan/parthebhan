@@ -1,4 +1,3 @@
-## 👀 About Me
 👋 Hi, I’m @parthebhan.I am passionate about programming, machine learning, deep learning, and generative AI. With a strong foundation in these areas, I continuously strive to enhance my skills and knowledge.
 
 ## 🌱 Currently Learning
