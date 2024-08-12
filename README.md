@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @parthebhan
-
 I'm passionate about programming, machine learning, deep learning, and generative AI. I continuously strive to enhance my skills and knowledge.
 
 ## 💼 Technical Expertise
-
 - **Languages:** Python, R
 - **Machine Learning:** TensorFlow, Scikit-learn, Regression & Classification Models, K-means Clustering
 - **Deep Learning:** CNNs, RNNs
@@ -17,7 +15,4 @@ I'm passionate about programming, machine learning, deep learning, and generativ
 - **UI Development:** Streamlit, Hugging Face
 - **Vector Databases:** Chroma DB, Faiss, Pinecone, Weaviate, Astra DB
 
----
-
-Excited to collaborate and create something amazing together!
 
