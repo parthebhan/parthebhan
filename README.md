@@ -8,7 +8,7 @@ I'm passionate about programming, machine learning, deep learning, and generativ
 - **NLP:** NLTK, Transformers, SpaCy, Gensim
 - **AI Techniques:** Langchain (RAG), LLMs (BERT, LLaMA 3, GPT-4)
 - **Data Viz:** Excel, Power BI, Tableau
-- **Databases:** Langchain, MySQL, MongoDB, SharePoint
+- **Databases:** MySQL, MongoDB, SharePoint
 - **Dev Environments:** VS Code, Colab, Jupyter
 - **Version Control:** Git (GitHub)
 - **CI/CD:** AWS SageMaker, Elastic Beanstalk, MLflow
