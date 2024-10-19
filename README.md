@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="left"></p>
 
-<h3 align="left">Certifications:</h3>
+<h3 align="left">Specialization Certificates:</h3>
 
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/specialization/Z7FEQL43K3YC" target="_blank">
