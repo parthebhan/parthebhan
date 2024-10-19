@@ -8,10 +8,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="left"></p>
 
+<h3 align="left">Certifications:</h3>
+
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/specialization/Z7FEQL43K3YC" target="_blank">
-    <img src="URL_TO_YOUR_FIRST_BADGE.jpg" alt="Google Data Analytics" width="100" />
+    <img src="https://www.credly.com/badges/1d183c95-5d0d-4a94-ad77-4032bead2f93/public_url" alt="Google Data Analytics" width="100" />
   </a>
+  <br>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/CQU65SPZJA9T" target="_blank">
     <img src="https://www.credly.com/badges/c3229794-06fd-4b64-8798-61f4c0aeab36/public_url" alt="Google Advanced Data Analytics" width="100" />
   </a>
