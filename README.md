@@ -13,7 +13,7 @@
     <img src="URL_TO_YOUR_FIRST_BADGE.jpg" alt="First Badge" width="100" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/CQU65SPZJA9T" target="_blank">
-    <img src="URL_TO_YOUR_SECOND_BADGE.jpg" alt="Second Badge" width="100" />
+    <img src="https://www.credly.com/badges/c3229794-06fd-4b64-8798-61f4c0aeab36/public_url" alt="Second Badge" width="100" />
   </a>
 </p>
 
